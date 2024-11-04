@@ -1,2 +1,2 @@
 # projeto-android
-Projeto Android criado no cap 17 do curso de HTML e CSS https://leoneprogrammer.github.io/projeto-android/
+Primeiro Projeto do curso HTML5 e CSS3 ministrado pelo Gustavo Guanabara. https://leoneprogrammer.github.io/projeto-android/
